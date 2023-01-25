@@ -30,7 +30,7 @@ jobs:
         environment:
           - test
           - prod
-# update to prod enviroment
+# update to prod enviromen
 
     environment: ${{ matrix.environment }}
 
